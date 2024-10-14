@@ -1,0 +1,18 @@
+Starting Array bubble sort with 10000 items
+Ending bubble sortGenerating 1000000 random numbers
+arcv[0]:./generate
+arcv[1]:1000000
+arcv[2]:-100000
+arcv[3]:100000
+Starting system sort
+
+real	0m3.494s
+user	0m2.869s
+sys	0m0.110s
+Starting mysort
+Starting Array bubble sort with 1000000 items
+Ending bubble sort
+real	58m38.753s
+user	57m0.447s
+sys	0m19.371s
+ 1000000 1000000 6388458 mysort.out
